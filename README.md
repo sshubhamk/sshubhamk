@@ -10,13 +10,13 @@
 - 🔎 Reach me- 
 
 <span>
-<a display="block" href="https://linkedin.com/in/sshubhamk">
+<a href="https://linkedin.com/in/sshubhamk">
   <img align="center" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="22px" />
 </a>
 <a href="https://twitter.com/sshubhamk_">
   <img align="center" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="22px" />
 </a>
-<a href="https://facebook.com/shubham.kanadje" target="blank">
+<a href="https://facebook.com/shubham.kanadje">
   <img align="center" alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="22px" />
 </a>
 <a href="https://instagram.com/sshubhamk">
@@ -25,9 +25,10 @@
 <a href="https://t.me/sshubhamk">
   <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-  </span>
+</span>
+
 <br/>
-  
+
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshubhamk&hide=TeX&layout=compact">
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sshubhamk&show_icons=true&hide=issues&icon_color=000000&hide_border=false&title_color=5391FE&text_color=555">
