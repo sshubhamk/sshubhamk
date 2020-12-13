@@ -19,7 +19,7 @@
 <a href="https://facebook.com/shubham.kanadje">
   <img align="center" alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="22px" />
 </a>
-<a href="https://instagram.com/sshubhamk">
+<a href="https://instagram.com/sshubham.k">
   <img align="center" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="22px" />
 </a>
 <a href="https://t.me/sshubhamk">
