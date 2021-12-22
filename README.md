@@ -4,7 +4,7 @@
 - 🔭 Building an ERP for the current organization.
 - 🌱 Learning Python & React.
 - 👯 Looking to collaborate on Github.
-- 💬 Ask me about Front End Development.
+- 💬 Ask me about Frontend Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to Podcasts.
 
