@@ -1,9 +1,9 @@
 ### Hi, there! 👋
   I'm Shubham Kanadje, Software Developer from India who is passionate about technologies. Besides programming, I enjoy travelling, listening to podcasts, and of course playing video games.
 
-- 🔭 I’m currently working on building an ERP for the current organization.
-- 🌱 I’m currently learning Python & React.
-- 👯 I’m looking to collaborate on Github.
+- 🔭 Building an ERP for the current organization.
+- 🌱 Learning Python & React.
+- 👯 Looking to collaborate on Github.
 - 💬 Ask me about Front End Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listening to Podcasts.
