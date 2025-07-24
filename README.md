@@ -1,7 +1,7 @@
 ### Hi, there! 👋
   I'm Shubham Kanadje, Software Developer from India who is passionate about technologies. Besides programming, I enjoy travelling, listening to podcasts, and of course playing video games.
 
-- 🔭 Building an Enterprise Platform for the current organization.
+- 🔭 Building an Insights Platform for the current organization.
 - 🌱 Learning Python & React.
 - 👯 Looking to collaborate on Github.
 - 💬 Ask me about Frontend Development.
